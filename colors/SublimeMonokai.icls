@@ -204,7 +204,6 @@
         <option name="FOREGROUND" value="48ff60" />
       </value>
     </option>
-    <option name="CONSOLE_RANGE_TO_EXECUTE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="CONSOLE_RED_OUTPUT">
       <value>
         <option name="FOREGROUND" value="dd0000" />
@@ -582,9 +581,6 @@
         <option name="FOREGROUND" value="f92772" />
       </value>
     </option>
-    <option name="HTML_TAG">
-      <value />
-    </option>
     <option name="HTML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="fd9620" />
@@ -697,9 +693,6 @@
         <option name="FOREGROUND" value="75715e" />
         <option name="FONT_TYPE" value="2" />
       </value>
-    </option>
-    <option name="JS.DOC_MARKUP">
-      <value />
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
@@ -1354,10 +1347,6 @@
       <value>
         <option name="FOREGROUND" value="f92772" />
       </value>
-    </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
-    <option name="XML_TAG">
-      <value />
     </option>
     <option name="XML_TAG_DATA">
       <value>
